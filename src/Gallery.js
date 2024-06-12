@@ -1,4 +1,4 @@
-import React from 'react';
+
 
 import dish from './image/dish.jpg';
 import dish1 from './image/dish1.jpg';
@@ -25,58 +25,72 @@ const Gallery = [
     {
         id:1,
         imgSrc: dish,
+        name: 'Peppersoup'
     },
     {
         id:2,
         imgSrc: dish1,
+        name: 'Rice'
     },
     {
         id:3,
         imgSrc: dish2,
+        name: 'Okra'
     },
     {
         id:4,
         imgSrc: dish3,
+        name: 'Samosa'
     },
     {
         id:5,
         imgSrc: dish4,
+        name: 'French Fries'
     },
     {
         id:6,
         imgSrc: dish5,
+        name: 'Cake'
     },
     {
         id:7,
         imgSrc: dish6,
+        name: 'Salad'
     },
     {
         id:8,
         imgSrc: dish7,
+        name: 'Croissant'
     },
     {
         id:9,
         imgSrc: dish8,
+        name: 'Plantain'
     },
     {
         id:10,
         imgSrc: dish9,
+        name: 'Steak'
     },
     {
         id:11,
         imgSrc: dish10,
+        name: 'Soup'
     },
     {
         id:12,
         imgSrc: dish11,
+        name: 'Spring Rolls'
     },
     {
         id:13,
         imgSrc: dish12,
+        name: 'Cake'
     },
     {
         id:14,
         imgSrc: beautiful,
+        name: 'Woman'
     },
     // {
     //     id:15,
@@ -85,22 +99,27 @@ const Gallery = [
     {
         id:16,
         imgSrc: woman2,
+        name: 'Young Girl'
     },
     {
         id:17,
         imgSrc: lady,
+        name: 'Instrumentalist'
     },
     {
         id:18,
         imgSrc: model,
+        name: 'model'
     },
     {
         id:19,
         imgSrc: elephant,
+        name: 'elephant'
     },
     {
         id:20,
         imgSrc: motherslove,
+        name: 'Mother and Child'
     }
 ];
 
