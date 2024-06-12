@@ -5,7 +5,6 @@ This project is part of the assignment for the Frontend Pro Track Cohort 9. The 
 ## Features
 
 - **Image Search:** Users can enter keywords to search for specific images.
-- **Download:** Users can download any image of their choice.
 - **Name Display:** Each image in the gallery is accompanied by a name.
 - **Responsive Design:** The gallery is designed to work seamlessly across different screen sizes.
 
@@ -18,7 +17,7 @@ This project is part of the assignment for the Frontend Pro Track Cohort 9. The 
 
 ## Clone the repository:
 ```bash
-git clone https://github.com/IwuchukwuDivine/image-gallery.git
+git clone https://github.com/madukafavour/image_gallery.git
 ```
 ## Install dependencies:
 ```bash
@@ -34,7 +33,7 @@ npm start
 This project was a group work and collaboration between Maduka Favour and Iwuchukwu Divine. Collaboration is an integral part of the project and carries 40 marks.
 
 ## Links 
-- **GitHub Repository:** https://github.com/IwuchukwuDivine/image-gallery
+- **GitHub Repository:** https://github.com/madukafavour/image_gallery
 - **Hosted Page:** https://fayvin.netlify.app/
 ## Contributors:
 - MADUKA FAVOUR
